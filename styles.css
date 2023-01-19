@@ -4,11 +4,11 @@
 	border-radius: 5px;
 	background-color: black;
 	color: white;
-	border:none;
+	border: none;
 }
 #btn:hover {
 	background-color: yellow;
-	color:black;
+	color: black;
 	border-radius: 30px;
-	border:none;
+	border: none;
 }
